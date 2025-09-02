@@ -1,0 +1,6 @@
+[INFO] 02-09-2025 14:39:41 [main] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up edge browser
+[INFO] 02-09-2025 14:39:41 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 02-09-2025 14:39:41 [main] [Utilities.Utility.takeScreenShot(Utility.java:78)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 02-09-2025 14:39:41 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:39:41 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case testSearchFlowWithChaining skipped
+[INFO] 02-09-2025 14:39:41 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case tearDown skipped

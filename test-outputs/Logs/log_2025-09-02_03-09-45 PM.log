@@ -1,0 +1,40 @@
+[INFO] 02-09-2025 15:09:46 [TestNG-tests-2] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up firefox browser
+[INFO] 02-09-2025 15:09:50 [TestNG-tests-1] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 15:09:50 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 15:09:50 [TestNG-tests-1] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 15:09:50 [TestNG-tests-3] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 15:09:50 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 15:09:50 [TestNG-tests-3] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 15:09:52 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case testSearchFlowWithChaining passed
+[INFO] 02-09-2025 15:09:52 [TestNG-tests-3] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 15:09:53 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
+[INFO] 02-09-2025 15:09:53 [TestNG-tests-3] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up edge browser
+[INFO] 02-09-2025 15:09:56 [TestNG-tests-2] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 15:09:56 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 15:09:56 [TestNG-tests-2] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 15:09:58 [TestNG-tests-3] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 15:09:58 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 15:09:58 [TestNG-tests-3] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 15:10:01 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[INFO] 02-09-2025 15:10:01 [TestNG-tests-1] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 15:10:04 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
+[INFO] 02-09-2025 15:10:04 [TestNG-tests-1] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up chrome browser
+[INFO] 02-09-2025 15:10:06 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[INFO] 02-09-2025 15:10:06 [TestNG-tests-2] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 15:10:07 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
+[INFO] 02-09-2025 15:10:07 [TestNG-tests-2] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up firefox browser
+[INFO] 02-09-2025 15:10:08 [TestNG-tests-1] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 15:10:08 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 15:10:08 [TestNG-tests-1] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 15:10:15 [TestNG-tests-2] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 15:10:15 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 15:10:15 [TestNG-tests-2] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 15:10:28 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[INFO] 02-09-2025 15:10:28 [TestNG-tests-2] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 15:10:29 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
+[INFO] 02-09-2025 15:10:32 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[INFO] 02-09-2025 15:10:32 [TestNG-tests-3] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 15:10:35 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
+[INFO] 02-09-2025 15:10:42 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[INFO] 02-09-2025 15:10:43 [TestNG-tests-1] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 15:10:46 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed

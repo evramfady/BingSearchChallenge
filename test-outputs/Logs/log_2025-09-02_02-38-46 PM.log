@@ -1,0 +1,14 @@
+[INFO] 02-09-2025 14:38:46 [main] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up chrome browser
+[INFO] 02-09-2025 14:38:48 [main] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 14:38:48 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 14:38:49 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:39:05 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[ERROR] 02-09-2025 14:39:05 [main] [Utilities.Utility.takeScreenShot(Utility.java:78)] - invalid session id
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.14.0-28-generic', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e4932c42b7d9236f82b5af7a2ae1f491, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.127, chrome: {chromedriverVersion: 139.0.7258.154 (9e0d6b2b47f..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:42957}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:42957/devtoo..., se:cdpVersion: 139.0.7258.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e4932c42b7d9236f82b5af7a2ae1f491
+[INFO] 02-09-2025 14:39:05 [main] [Tests.BaseTestClass.tearDown(BaseTestClass.java:25)] - Cleaning up browser session
+[INFO] 02-09-2025 14:39:05 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed

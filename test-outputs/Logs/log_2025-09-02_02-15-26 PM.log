@@ -1,0 +1,7 @@
+[INFO] 02-09-2025 14:15:26 [main] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up chrome browser
+[INFO] 02-09-2025 14:15:28 [main] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 14:15:28 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 14:15:28 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:15:29 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case testSearchFlowWithChaining passed
+[INFO] 02-09-2025 14:15:29 [main] [Tests.BaseTestClass.tearDown(BaseTestClass.java:25)] - Cleaning up browser session
+[INFO] 02-09-2025 14:15:30 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed

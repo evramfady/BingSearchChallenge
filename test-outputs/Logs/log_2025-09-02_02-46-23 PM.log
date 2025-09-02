@@ -1,0 +1,36 @@
+[INFO] 02-09-2025 14:46:24 [TestNG-tests-3] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up edge browser
+[INFO] 02-09-2025 14:46:24 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 02-09-2025 14:46:24 [TestNG-tests-3] [Utilities.Utility.takeScreenShot(Utility.java:78)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case testSearchFlowWithChaining skipped
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case tearDown skipped
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up edge browser
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 02-09-2025 14:46:25 [TestNG-tests-2] [Utilities.Utility.takeScreenShot(Utility.java:78)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-2] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case testSearchFlowWithChaining skipped
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case tearDown skipped
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-2] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up firefox browser
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 02-09-2025 14:46:25 [TestNG-tests-3] [Utilities.Utility.takeScreenShot(Utility.java:78)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:46:25 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case testSearchFlowWithChaining skipped
+[INFO] 02-09-2025 14:46:26 [TestNG-tests-3] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case tearDown skipped
+[INFO] 02-09-2025 14:46:27 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case setup failed
+[ERROR] 02-09-2025 14:46:27 [TestNG-tests-2] [Utilities.Utility.takeScreenShot(Utility.java:78)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 02-09-2025 14:46:27 [TestNG-tests-2] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:46:27 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case testSearchFlowWithChaining skipped
+[INFO] 02-09-2025 14:46:27 [TestNG-tests-2] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:34)] - Test Case tearDown skipped
+[INFO] 02-09-2025 14:46:28 [TestNG-tests-1] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 14:46:28 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 14:46:28 [TestNG-tests-1] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:46:29 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case testSearchFlowWithChaining passed
+[INFO] 02-09-2025 14:46:29 [TestNG-tests-1] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 14:46:29 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
+[INFO] 02-09-2025 14:46:29 [TestNG-tests-1] [Tests.BaseTestClass.setup(BaseTestClass.java:16)] - Setting up chrome browser
+[INFO] 02-09-2025 14:46:32 [TestNG-tests-1] [Tests.BaseTestClass.setup(BaseTestClass.java:20)] - Navigated to: https://www.bing.com/
+[INFO] 02-09-2025 14:46:32 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case setup passed
+[INFO] 02-09-2025 14:46:32 [TestNG-tests-1] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case testSearchFlowWithChaining started
+[INFO] 02-09-2025 14:46:57 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:27)] - Test Case testSearchFlowWithChaining failed
+[INFO] 02-09-2025 14:46:57 [TestNG-tests-1] [Tests.BaseTestClass.tearDown(BaseTestClass.java:24)] - Cleaning up browser session
+[INFO] 02-09-2025 14:46:57 [TestNG-tests-1] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:31)] - Test Case tearDown passed
